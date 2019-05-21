@@ -34,7 +34,8 @@ After images are imported as an image template, they can be used to provision or
 
 * CentOS 6 and 7
 * RedHat Enterprise Linux 6 and 7
-* Ubuntu 14.04, and 16.04
+* Ubuntu 14.04, 16.04 and 18.04
+* Debian 9
 * Microsoft Server Standard 2012, R2 2012, and 2016
 
 Imports are limited to 100 GB disks. Images must be named according to the following example: filename.vhd-0.vhd or filename.vmdk-0.vmdk
